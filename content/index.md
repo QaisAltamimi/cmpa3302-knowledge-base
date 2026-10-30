@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Qais Altamimi's Information Organization Knowledge Base
 ---
-## The index page
+## Welcome
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Welcome to my knowledge base for CMPA 3302. Here, I will organize my notes and examples about how information is collected, described, and organized so it is easier to find and use.
 
 ## Editing pages
 
