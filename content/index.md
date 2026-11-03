@@ -5,6 +5,14 @@ title: Qais Altamimi's Information Organization Knowledge Base
 
 Welcome to my knowledge base for CMPA 3302. Here, I will organize my notes and examples about how information is collected, described, and organized so it is easier to find and use.
 
+## Main Categories
+
+- [[organization-basics/index|Information Organization Basics]]
+- [[collecting-information/index|Collecting Information]]
+- [[resource-description/index|Resource Description and Metadata]]
+- [[categories-and-classification/index|Categories and Classification]]
+- [[search-and-retrieval/index|Search and Retrieval]]
+- [[real-world-examples/index|Real-World Examples]]
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
